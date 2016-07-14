@@ -1,0 +1,8 @@
+"cwstarwars"
+{
+	"title"			"Star Wars"
+	"author"		"duck"
+	"description"	"A roleplaying universe taking place a long time ago in a galaxy far, far away."
+	"version"		"July 13, 2016"
+	"workshopid"	"693723945"
+}
