@@ -25,7 +25,7 @@ function Schema:ClockworkLoadShared()
 
 	function CLOCKWORK_LOGO_PLUGIN:StartIntro()
 		surface.PlaySound("buttons/button1.wav");
-		self:OpenIntroHTML("http://authx.cloudsixteen.com/data/loading/clockwork.php", 2, Schema.intro.Start);
+		self:OpenIntroHTML("http://authx.cloudsixteen.com/data/loading/clockwork.php", 6, Schema.intro.Start);
 	end;
 
 	StarWars:Override();
